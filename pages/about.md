@@ -10,6 +10,8 @@ eleventyNavigation:
 ---
 #### Why Create This?
 
+lalalalalaseafafaqwreqwerqwerqewrqe
+
 I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
 
 First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
