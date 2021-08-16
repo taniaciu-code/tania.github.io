@@ -1,18 +1,18 @@
 ---
-title: Test Aja
-emoji: 😺
+title: Support Vector Machine and Naïve Bayes Based Spam SMS Detection
+emoji:
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
 summary: API to translate cat speech to english
 tags:
-  - golang
-  - graphQL
-  - aws
+  - python
+  - jupyternotebook
 ---
 
-**Retrieve Data**
+## Retrieve Data
 
-
+Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+test 
 ```python
 import pandas as pd
 data = pd.read_csv('SMSSpamCollection.csv', encoding='latin-1')
