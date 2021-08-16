@@ -4,6 +4,11 @@ section: projects
 ---
 <div class="page-container">
   <h1>{{title}}</h1>
+  <p>
+      <small>
+        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+      </small>
+    </p>
   {% if subtitle %}
     <p>{{ subtitle }}</p>
   {% endif %}
