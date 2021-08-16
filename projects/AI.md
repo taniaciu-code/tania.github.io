@@ -366,7 +366,7 @@ data.hist(column='length', by='label', bins=50,figsize=(11,5), color = "darkturq
 
 
 
-![png](output_5_1.png)
+![png](/static/img/output_5_1.png)
 
 
 
