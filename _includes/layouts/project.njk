@@ -8,6 +8,11 @@ section: project
       <span class="project-card__emoji">{{ emoji }}</span>
     {% endif %}
     {{title}}</h1>
+    <p>
+      <small>
+        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+      </small>
+    </p>
   <hr>
   {{ layoutContent | safe }}
   <nav>
